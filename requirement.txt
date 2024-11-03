@@ -1,0 +1,11 @@
+pip 
+wheel
+pygame
+
+
+1. Creation environnement python : python3 -m venv .
+
+2. Activation environnement : source /home/corentin/Projects/TetrisTuto/bin/activate
+
+3. Pygame installation : pip install pygame==2.6.0
+
