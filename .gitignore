@@ -1,0 +1,8 @@
+# Ignorer l'environnement virtuel
+venv/
+pyvenv.cfg
+bin/
+include/
+lib/
+lib64/
+__pycache__/
